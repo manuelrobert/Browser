@@ -1,4 +1,3 @@
 # Browser
-A self made browser
-Python
-PyQt5
+A self made browser<br>
+Python - PyQt5
